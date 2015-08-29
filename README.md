@@ -1,6 +1,6 @@
 # appa
 
-The fake Akka for Scala.js.
+Get the feel of Akka in Scala.js
 
 ![](http://i.imgur.com/rMIzarn.gif)
 
